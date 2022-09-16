@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello world
 1
 2
 Master
+=======
+Hello world
+>>>>>>> parent of af35d92 (2nd commit)
