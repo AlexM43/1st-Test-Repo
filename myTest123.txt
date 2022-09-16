@@ -1,7 +1,13 @@
 Hello world
 1
 2
+<<<<<<< HEAD
 3
 4
 Master
-
+=======
+Hello world
+>>>>>>> parent of af35d92 (2nd commit)
+=======
+Master
+>>>>>>> parent of 594ff25 (Revert "2nd commit")
